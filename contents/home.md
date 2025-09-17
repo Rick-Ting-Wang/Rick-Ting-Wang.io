@@ -3,7 +3,7 @@
 [![Ting Wang](https://img.shields.io/badge/tingwang-github-blue?logo=github)](https://github.com/rick-ting-wang)
 
 
-**Hi there!**
+**Hi there!**<br>
 I am currently a Senior year student at the Communication University of China<br>
 
 #### Features
