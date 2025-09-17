@@ -11,7 +11,7 @@ I am currently a Senior year student at the Communication University of China<br
 
 #### Contact
 - Tel : +86 17316342182
-- Email : wtupwardtrajector[at]outlook.com<br>
+- Email : wtupwardtrajectory[at]outlook.com<br>
 - Github : https://github.com/Rick-Ting-Wang/<br>
 - AcWing : https://www.acwing.com/user/myspace/index/546701/<br>
 - Leetcode : https://leetcode.com/u/WLdHkfqRQI/<br>
