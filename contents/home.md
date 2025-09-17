@@ -5,7 +5,7 @@
 He is currently a Senior year student at the Communication University of China, majored in Computer Science in Artificial Intelligence (B.S.[Expected 2026])<br>
 
 #### Features
-- Alumnus of Communication University of China, Go Poplars!
+- Senior Year at the Communication University of China, Go Poplars!
 - Fist-gen University Student
 - Strength-focused, Fast learner
 
