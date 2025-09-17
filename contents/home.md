@@ -1,6 +1,6 @@
 
 
-[![Ting Wang](https://img.shields.io/badge/ting wang-github-blue?logo=github)](https://github.com/rick-ting-wang)
+[![Ting Wang](https://img.shields.io/badge/tingwang-github-blue?logo=github)](https://github.com/rick-ting-wang)
 
 He is currently a Senior year student at the Communication University of China.
 
