@@ -1,16 +1,10 @@
-#### Submitted
+#### Done
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
-#### Published
-
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- **One-Stop Service Platform**: Developed a C-language course management system.  
+- **Large Language Model Research**: Reviewed the evolution from n-gram to Transformer, analyzing breakthroughs in BERT and GPT.  
+- **Tennis Match Win Rate and Decision Model**: Built a multi-model system including ELO rating, SVM-based technical evaluation, neural network-based match recommendation, and turning-point prediction.  
+- **IoT Smart Farm System**: Designed an MQTT communication architecture to enable sensor–actuator interaction, integrated with an SVM-based prediction model.  
+- **Chinese Word Segmentation Model**: Developed a Transformer-CRF based segmentation system using BMES tagging, word embeddings, and Viterbi optimization.  
+- **Qwen1.5-LoRA Fine-Tuning for Special Education**: Applied LoRA fine-tuning to build a dialogue system for special education applications.  
+- **SlideAssistant Multimodal System**: Combined LoRA and knowledge graph RAG to construct a knowledge graph from course slides.  
 
