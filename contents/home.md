@@ -2,7 +2,7 @@
 
 [![Ting Wang](https://img.shields.io/badge/tingwang-github-blue?logo=github)](https://github.com/rick-ting-wang)
 
-He is currently a Senior year student at the Communication University of China, majored in Computer Science in Artificial Intelligence (B.S.[Expected 2026])<br>
+I am currently a Senior year student at the Communication University of China<br>
 
 #### Features
 - Senior Year at the Communication University of China, Go Poplars!
